@@ -1,5 +1,10 @@
 Project to display your top 20 last.fm artists, when you click on the corresponding images it displays a youtube video.
 
+To make it work:
+1. Go in to jscript/pages.js
+2. Change USERNAME to your lastfm username
+3. Change LASTFMKEY to your lastfm key 
+
 Licensed Under
 LasTube by Willson Smith is licensed under a Creative Commons Attribution-NonCommercial 3.0 Unported License.
 
